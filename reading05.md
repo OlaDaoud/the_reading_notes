@@ -18,9 +18,9 @@ CSS allows you to create rules that control the way that each individual element
 
 #### BLOCK & INLINE ELEMENTS
 
-* *** Block level *** elements look like they start on a new line.
+* **Block level** elements look like they start on a new line.
 Examples include the <h1>-<h6>, <p> and <div> elements.
-* *** Inline elements *** flow within the text and do not start on a new
+* **Inline elements** flow within the text and do not start on a new
 line. Examples include <b>, <i>, <img>, <em> and <span>.
 
 ### Example Styles : 
@@ -45,14 +45,10 @@ There are also specific ways in which you can style certain elements such as lis
 ## CSS Associates Style rules with HTML elements
 
 A CSS rule contains two parts: a *selector* and a *declaration*.
-![Elements](https://drive.google.com/file/d/1UJWNMx4bw7xtpKKn7JUIR36ncvYdqhAg/view?usp=sharing)
-
 
 ## CSS Properties Affect How Elements Are Displayed
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a *property* and a *value*, separated by a colon. 
-
-![Css declaration](https://drive.google.com/file/d/1ni3OfrlXIHUq9wUu-xViF1NdaQEkXixj/view?usp=sharing)
 
 ### There are three ways to apply CSS to HTML:
 1. **Inline** : plonked straight into the HTML tags using the style attribute.
@@ -82,7 +78,6 @@ The color property allows you to specify the color of text inside an element.  i
 
 #### Every color on a computer screen is created by mixing amounts of red,green, and blue. 
 
-![](https://drive.google.com/file/d/1LtmZ41FZcVx9k9O9ozxDqe1AGa4EBl2f/view?usp=sharing)
 
 ### Colors properties : 
 * Hue 
@@ -98,11 +93,11 @@ The value of the property starts
 with the letters hsl, followed
 by individual values inside
 parentheses for:
-**hue**
+* **hue**
  an angle(between 0 and 360 degrees).
-**saturation**
+* **saturation**
 a percentage.
-**lightness**
+* **lightness**
  a percentage with 0% being white,50% being normal, and 100% being black.
-**alpha**
+* **alpha**
 This is expressed as a number between 0 and .0.
