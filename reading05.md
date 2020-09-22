@@ -19,9 +19,9 @@ CSS allows you to create rules that control the way that each individual element
 #### BLOCK & INLINE ELEMENTS
 
 * **Block level** elements look like they start on a new line.
-Examples include the <h1>-<h6>, <p> and <div> elements.
+Examples include the '<h1>'- '<h6>' , '<p>' and '<div>' elements.
 * **Inline elements** flow within the text and do not start on a new
-line. Examples include <b>, <i>, <img>, <em> and <span>.
+line. Examples include '<b>' , '<i>', '<img>', '<em>' and '<span>'.
 
 ### Example Styles : 
 
