@@ -24,7 +24,7 @@ logical operators allows you to compare the results of more than one comparison 
 <img src="loop.png">
 
 ## loop counter
-<img src="for.png">
+<img src="C:\Users\LTUC\Desktop\ASSIGNMENTS\the_reading_notes\images\for.png">
 
 
 ## using while in loops
