@@ -25,7 +25,7 @@ logical operators allows you to compare the results of more than one comparison 
 
 ## loop counter
 
-![loop](for.PNG)
+![loop](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/for-Statement.png)
 
 ## using while in loops
 
