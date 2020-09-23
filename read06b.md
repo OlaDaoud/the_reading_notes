@@ -8,7 +8,7 @@ Humans always used tools to help in manual work, the machines pioneers wanted to
  3. process it 
  4. output the results
 
- #### first Computers
+#### first Computers
 
 They started out as huge basic calculators made of wood and metals. 
 
