@@ -12,19 +12,19 @@ comparison operators usually return single values of **true** or **false** .
 
 ## Logical operator  
 logical operators allows you to compare the results of more than one comparison operator. 
-<img src = "images\logical.png">
+<img src = "logical.png">
 
 | && | logical and |
 | || | logical or | 
 | ! | logical not | 
 
-<img src=images\t&f.png>
+<img src=t&f.png>
 
 ## Loops 
-<img src="images\loop.png">
+<img src="loop.png">
 
 ## loop counter
-<img src="images\for.png">
+<img src="for.png">
 
 
 ## using while in loops
