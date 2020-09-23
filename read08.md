@@ -18,14 +18,13 @@ logical operators allows you to compare the results of more than one comparison 
 | || | logical or | 
 | ! | logical not | 
 
-<img src=t&f.png>
+<img src="t&f.png">
 
 ## Loops 
 <img src="loop.png">
 
 ## loop counter
-<img src="C:\Users\LTUC\Desktop\ASSIGNMENTS\the_reading_notes\images\for.png">
-
+![loop](images\for.png)
 
 ## using while in loops
 
